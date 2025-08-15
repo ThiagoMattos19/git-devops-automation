@@ -2,10 +2,10 @@
 
 Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso básico de Git e GithHub.
 
-# Tecnologias Usadas
+## Tecnologias Usadas
 
 - Git 
 - GitHub
 - Markdown
 
-# Estrutura do Projeto
+### Estrutura do Projeto
